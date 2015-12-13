@@ -1,0 +1,9 @@
+[package]
+name = "stockfighter"
+version = "0.1.0"
+authors = ["Gergely Imreh <imrehg@gmail.com>"]
+license = "MIT"
+description = "Client for the Stockfighter.io API"
+
+[dependencies]
+hyper = "0.7.0"
